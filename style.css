@@ -1,0 +1,59 @@
+section {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin: 60px 10px 10px 0px;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.BR {
+    font-weight: 550;
+    margin-left: 50px;
+}
+
+.arch {
+    margin-right: 850px;
+}
+
+.proj {
+    margin-right: 20px;
+}
+
+.about {
+    margin: 0px 20px 0px 0px;
+}
+
+main {
+    margin-left: 50px;
+}
+
+h3 {
+    margin: 0px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin: 0px;
+    font-weight: normal;
+    color: rgb(88, 85, 85);
+    text-align: left;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+}
